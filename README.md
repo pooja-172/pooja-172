@@ -1,4 +1,4 @@
-### Hi there 👋 Welcome to my Portfolio!
+### Hi there 👋 
 
 Hey there! My name is Pooja and I am a final year student at Vellore Institute of Technology, Chennai studying Computer Science with a focus on Artificial Intelligence and Robotics. My interests include data analytics and machine learning, and I enjoy exploring the latest developments in these fields. <br/></br>
 Throughout my academic journey, I have gained hands-on experience in programming languages such as Python, Java, and C++, as well as popular tools and frameworks used in data analysis and machine learning, including NumPy, Pandas, TensorFlow, and PyTorch. I have also completed several projects in areas such as natural language processing, computer vision, and predictive modeling, among others. <br/>
