@@ -5,7 +5,7 @@ Throughout my academic journey, I have gained hands-on experience in programming
 
 ### Technical Skills
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,r,html,css,tailwind,mysql,tensorflow,vscode,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,c,java,r,html,css,tailwind,javascript,mysql,tensorflow,vscode,arduino)](https://skillicons.dev)
 
 
 As I continue to learn and grow in my field, I am excited to collaborate with other like-minded individuals and contribute to the open-source community. Thank you for taking the time to visit my profile, and feel free to explore my projects and reach out to me with any questions or suggestions! 
